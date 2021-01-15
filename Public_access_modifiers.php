@@ -1,6 +1,6 @@
 <?php 
 //when we define any properties and method by public keyword 
-// meaning we can access anywhere in this properties and method
+//  meaning we can access anywhere in this properties and method
  class Year{
     public $january = "Januery is the first month of every year.<br>";
     public $february = "February is the second month of every year . <br>";
