@@ -40,6 +40,7 @@ class ProgrammerAdd {
         return 'I am redux.';
     }
 }
+// Create object from class
 $objectProgrammerAdd = new ProgrammerAdd();
 echo $objectProgrammerAdd->redux(); // return I am redux.
 ?>
