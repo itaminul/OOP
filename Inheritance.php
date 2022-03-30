@@ -18,7 +18,4 @@ class Winter extends Season{
 }
 $obj = new Winter();
 echo $obj->getCool('Very cool');
-
-
-
 ?>

@@ -14,24 +14,18 @@ Class Programmerd {
 // Add properties to a class
 
 class Programmer {
-
     public $javascript;
     public $php = 'PHP is dynamic language.';
     public $reactjs = true;
 }
 
 // Create object from a class
-
 $objectProgrammer = new Programmer();
-
 // Get an object properties
-
 echo $objectProgrammer->php.'<br>'; // return PHP is dynamic language
 
 // Add method to a class
-
 class ProgrammerAdd {
-
     public $javascript;
     public $php = 'PHP is dynamic language';
     public $reactjs = true;
